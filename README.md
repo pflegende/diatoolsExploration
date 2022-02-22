@@ -23,7 +23,9 @@ https://github.com/search?q=draw+dia+charts&type=repositories
 
 `*` ... **LL** this is what we call a Linklist
 
-## of topic - result of curiosity  :P
+## off topic - result of curiosity  :P
+
+(may be to move it later to other repo with better focus on this, yet not namend, topic))
 
 https://github.com/marketplace  your suggestion "+" or "-" ..., alternatives for this LL?
 
