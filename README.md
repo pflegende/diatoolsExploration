@@ -1,7 +1,8 @@
 # diatoolsExploration
 awesome List of do-it-yourself picasso for office like mermaid draw.io etc - work in progress -
 
-give us some hints of usefull usecases in https://github.com/pflegende/diatoolsExploration/issues
+give us some hints of usefull usecases in [call-for-issues](https://github.com/pflegende/diatoolsExploration/issues/1)
+:smile:
 
 
 ## mermaid
