@@ -17,6 +17,12 @@ https://draw.io is a diagramming/whiteboarding visualization application.
 
 This app allows you to store your diagrams in GitHub with fewer permissions than authenicating using OAuth only.
 
-## LL ... 1st try: more such tools
+## LL* ... 1st try: more such tools
 
 https://github.com/search?q=draw+dia+charts&type=repositories
+
+`*` ... **LL** this is what we call a Linklist
+
+## of topic - result of curiosity  :P
+
+https://github.com/marketplace  your suggestion "+" or "-" ..., alternatives for this LL?
