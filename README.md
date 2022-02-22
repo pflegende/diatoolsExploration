@@ -7,7 +7,9 @@ give us some hints of usefull usecases in [call-for-issues](https://github.com/p
 
 ## mermaid
 
-also in use, description coming soon
+- also in use, description coming soon
+- readTheDocs: https://mermaid-js.github.io/mermaid/#/Setup
+- example: https://hackmd.io/RSkzVVtkQjqd_rgzaa505A?both
 
 ## draw.io
 
