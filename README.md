@@ -26,3 +26,5 @@ https://github.com/search?q=draw+dia+charts&type=repositories
 ## of topic - result of curiosity  :P
 
 https://github.com/marketplace  your suggestion "+" or "-" ..., alternatives for this LL?
+
+https://github.com/marketplace/category/free  - only free apps from gh-market
