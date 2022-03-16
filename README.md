@@ -29,7 +29,7 @@ graph TB
   SubGraph1 --> FinalThing[Final Thing]
 end
 ```
-### e.g. include mermaic Gant
+### e.g. include mermaid Gant
 
 3Monatsplan ... und nicht die Lerche!
 ---
